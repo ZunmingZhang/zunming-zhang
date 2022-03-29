@@ -6,11 +6,12 @@ description: Teaching Assistant at UC, San Diego.
 nav: true
 ---
 
-Markup: #<a href='#'>Undergraduate:</a>#
+Markup: # <a href='#'>Undergraduate:</a> #
 Markup: 1. Introduction to Analog Design [ECE35 @ UCSD]
 			Fundamental circuit theory concepts, Kirchhoff’s voltage and current laws, Thevenin’s and Norton’s theorems, loop and node analysis, time-varying signals, transient first order circuits, steady-state sinusoidal response.
 
-Markup: #<a href='#'>Graduate:</a>#
+Markup: # <a href='#'>Graduate:</a> #
+
 Markup: 1. Medical Devices and Interfaces [ECE202 @ UCSD]
 			This course covers basic cellular and electrochemical processes, membrane potentials, ionic currents, nerve cell conductance, extracellular and intracellular stimulation, neural probe technology materials and devices, diagnostic and drug delivery devices, material/physiological considerations, biosensors, microfluids, optical, magnetic and electrical screening.
 
