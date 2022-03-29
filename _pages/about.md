@@ -8,8 +8,8 @@ profile:
   align: right
   image: ZunmingZhang.jpg
   address: >
-    <p>555 Jacobs Hall, EBU1</p>
-    <p>123 9500 Gilman Drive</p>
+    <p>Jacobs Hall, EBU1</p>
+    <p>9500 Gilman Drive</p>
     <p>La Jolla, CA 92093</p>
 
 news: true  # includes a list of news items
@@ -21,8 +21,8 @@ I am a Ph.D. candidate at the Department of Electrical and Computer Engineering 
 
 Broadly, I am interested in the development of medical device and systems. In particular I am interested in
 
-Markup: * Single cell analysis based on imaging flow cytometer
-		* Apply machine learning in medical application
-		* Portable/Wearable medical device
+* Single cell analysis based on imaging flow cytometer
+* Apply machine learning in medical application
+* Portable/Wearable medical device
 		
 Contact email: zuz008@eng.ucsd.edu
