@@ -20,6 +20,7 @@ social: true  # includes social icons at the bottom of the page
 I am a Ph.D. candidate at the Department of Electrical and Computer Engineering at UC, San Diego. 
 
 Broadly, I am interested in the development of medical device and systems. In particular I am interested in
+
 Markup: * Single cell analysis based on imaging flow cytometer
 		* Apply machine learning in medical application
 		* Portable/Wearable medical device
