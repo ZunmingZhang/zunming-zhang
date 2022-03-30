@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: **Teaching Assistant** at UC, San Diego.
+description: Teaching Assistant at UC, San Diego.
 nav: true
 ---
 
