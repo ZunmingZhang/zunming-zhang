@@ -6,7 +6,7 @@ description: Teaching Assistant at UC, San Diego.
 nav: true
 ---
 
-### <a href='#'>Undergraduate:</a>
+### **<a href='#'>Undergraduate:</a>**
 
 #### **Introduction to Analog Design**
 *ECE35 @ UCSD*
@@ -14,7 +14,7 @@ nav: true
 Fundamental circuit theory concepts, Kirchhoff’s voltage and current laws, Thevenin’s and Norton’s theorems, loop and node analysis, time-varying signals, transient first order circuits, steady-state sinusoidal response.
 
 
-### <a href='#'>Graduate:</a> 
+### **<a href='#'>Graduate:</a>**
 
 #### **Medical Devices and Interfaces**
 _ECE202 @ UCSD_
