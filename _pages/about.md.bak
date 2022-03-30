@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: About
 title: About
 permalink: /
 subtitle: <a href='#'>ECE, UC San Diego</a>. Jacobs Hall, UCSD.
